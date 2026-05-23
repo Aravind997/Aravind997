@@ -65,10 +65,7 @@ Alongside software development, I actively trade on **[Binance](https://www.bina
 [![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black)](https://www.binance.com/en-IN)
 [![INDmoney](https://img.shields.io/badge/INDmoney-00D084?style=flat-square&logo=indmoney&logoColor=white)](https://www.indmoney.com/)
 [![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)](https://www.tradingview.com/)
----
-## 📊 GitHub Stats
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravind997&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind997&layout=compact&theme=dark)
+
 ---
 ## 🎯 Key Skills Acquired
 ### Core Development
